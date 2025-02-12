@@ -1,6 +1,6 @@
 # Codes and Data for Reproducing Results
 
-This repository contains the code and data used to reproduce the results presented in the paper "Collaborating with Former Fellows Shorten the Road to ACM Fellowship".
+This repository contains the code and data used to reproduce the results presented in the paper "The Road to ACM Fellowship: Examining Collaboration Patterns and Disparities".
 
 
 ## Datasets
